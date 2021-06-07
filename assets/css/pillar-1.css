@@ -1,4 +1,4 @@
-/*! 
+/*!
  * Template Name: Pillar - Bootstrap 4 Resume/CV Template for Developers
  * Version: 1.2
  * Author: Xiaoying Riley
@@ -1150,7 +1150,7 @@ pre code {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 800px) {
   .col-lg {
     flex-basis: 0;
     flex-grow: 1;
